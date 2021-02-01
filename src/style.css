@@ -1,0 +1,19 @@
+#tribute-info {
+  text-align: center;
+}
+#tribute-link {
+  text-align: center;
+  color: blue;
+}
+
+ #image {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+#img-caption {
+  text-align: center;
+}
+#paragraph {
+  text-align: center;
+}
